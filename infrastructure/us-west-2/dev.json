@@ -1,5 +1,4 @@
 {
-  "region": "us-west-2",
   "azs": "us-west-2a,us-west-2b,us-west-2c",
   "ssh_key_name": "root-ssh-key-us-west-2",
   "cidr": "10.0.0.0/16",
