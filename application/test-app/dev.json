@@ -1,3 +1,4 @@
 {
+  "image_name": "thisisjustatest/test-app",
   "docker_tag": "latest"
 }
