@@ -2,7 +2,7 @@
   "image_name": "thisisjustatest/test-app",
   "docker_repo": "git@github.com:OGProgrammer/docker-test-app.git",
   "app_repo": "git@github.com:OGProgrammer/test-app.git",
-  "service_min": 4,
-  "service_desired": 4,
-  "service_max": 6
+  "service_min": 8,
+  "service_desired": 8,
+  "service_max": 10
 }
